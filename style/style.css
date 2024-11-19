@@ -453,9 +453,10 @@ span {
         margin-top: 8rem;
     }
     .about-img img {
-        width: 50vw;
+        width: 90vw;
         margin-top: 2rem;
     }
+    
 }
 
 @media (max-width: 450px) {
